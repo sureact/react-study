@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94a06a5c-3f10-4284-9855-7192d076c3c3" name="변경" comment="21장: koa 기본 사용법" />
+    <list default="true" id="94a06a5c-3f10-4284-9855-7192d076c3c3" name="변경" comment="21장: koa-router 기본 사용법">
+      <change afterPath="$PROJECT_DIR$/src/api/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,6 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1673609307800</updated>
       <workItem from="1673609309263" duration="5327000" />
+      <workItem from="1673615769160" duration="1235000" />
     </task>
     <task id="LOCAL-00001" summary="21장: koa 기본 사용법">
       <created>1673615123370</created>
@@ -112,7 +117,21 @@
       <option name="project" value="LOCAL" />
       <updated>1673615715242</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="21장: koa 기본 사용법 (누락 파일 추가)">
+      <created>1673616002463</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673616002463</updated>
+    </task>
+    <task id="LOCAL-00006" summary="21장: koa-router 기본 사용법">
+      <created>1673616609741</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673616609741</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +150,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="21장: koa 기본 사용법" />
-    <option name="LAST_COMMIT_MESSAGE" value="21장: koa 기본 사용법" />
+    <MESSAGE value="21장: koa 기본 사용법 (누락 파일 추가)" />
+    <MESSAGE value="21장: koa-router 기본 사용법" />
+    <option name="LAST_COMMIT_MESSAGE" value="21장: koa-router 기본 사용법" />
   </component>
 </project>
