@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94a06a5c-3f10-4284-9855-7192d076c3c3" name="변경" comment="21장: koa-router 기본 사용법">
-      <change afterPath="$PROJECT_DIR$/src/api/index.js" afterDir="false" />
+    <list default="true" id="94a06a5c-3f10-4284-9855-7192d076c3c3" name="변경" comment="21장: koa-router 분리">
+      <change afterPath="$PROJECT_DIR$/src/api/posts/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1673609307800</updated>
       <workItem from="1673609309263" duration="5327000" />
-      <workItem from="1673615769160" duration="1235000" />
+      <workItem from="1673615769160" duration="2121000" />
     </task>
     <task id="LOCAL-00001" summary="21장: koa 기본 사용법">
       <created>1673615123370</created>
@@ -131,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673616609741</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="21장: koa-router 분리">
+      <created>1673617026744</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1673617026744</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +160,7 @@
     <MESSAGE value="21장: koa 기본 사용법" />
     <MESSAGE value="21장: koa 기본 사용법 (누락 파일 추가)" />
     <MESSAGE value="21장: koa-router 기본 사용법" />
-    <option name="LAST_COMMIT_MESSAGE" value="21장: koa-router 기본 사용법" />
+    <MESSAGE value="21장: koa-router 분리" />
+    <option name="LAST_COMMIT_MESSAGE" value="21장: koa-router 분리" />
   </component>
 </project>
