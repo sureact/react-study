@@ -4,12 +4,52 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94a06a5c-3f10-4284-9855-7192d076c3c3" name="변경" comment="21장: koa-router, http 메소드 사용하기">
-      <change afterPath="$PROJECT_DIR$/src/api/posts/posts.ctrl.js" afterDir="false" />
+    <list default="true" id="94a06a5c-3f10-4284-9855-7192d076c3c3" name="변경" comment="21장: http 메서드 동작 결과 리스트에 저장">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.yarn-integrity" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.yarn-integrity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bytes/History.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytes/History.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bytes/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bytes/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytes/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bytes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytes/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bytes/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytes/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/co-body/History.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/co-body/History.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/co-body/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/co-body/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/co-body/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/co-body/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/co-body/lib/any.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/co-body/lib/any.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/co-body/lib/form.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/co-body/lib/form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/co-body/lib/json.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/co-body/lib/json.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/co-body/lib/text.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/co-body/lib/text.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/co-body/lib/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/co-body/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/co-body/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/debug/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/debug/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/debug/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/debug/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/debug/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/debug/node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/debug/node_modules/ms/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/debug/node_modules/ms/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/debug/node_modules/ms/license.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/debug/node_modules/ms/license.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/debug/node_modules/ms/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/debug/node_modules/ms/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/debug/node_modules/ms/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/debug/node_modules/ms/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/debug/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/debug/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/debug/src/browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/debug/src/browser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/debug/src/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/debug/src/common.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/debug/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/debug/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/debug/src/node.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/debug/src/node.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/koa/node_modules/debug/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/koa/node_modules/debug/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/koa/node_modules/debug/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/koa/node_modules/debug/src/browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/koa/node_modules/debug/src/common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/koa/node_modules/debug/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/koa/node_modules/debug/src/node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ms/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ms/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ms/license.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ms/license.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ms/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ms/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ms/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ms/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/api/posts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/posts/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/posts/posts.ctrl.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/posts/posts.ctrl.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
@@ -37,25 +77,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;18.7.0&quot;,
-    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;18.7.0&quot;,
-    &quot;js.buildTools.grunt.grunt-cli.package&quot;: &quot;&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.reader.mode&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/Users/milk717/Library/Application Support/JetBrains/Toolbox/apps/WebStorm/ch-0/223.8214.51/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "javascript.nodejs.core.library.configured.version": "18.7.0",
+    "javascript.nodejs.core.library.typings.version": "18.7.0",
+    "js.buildTools.grunt.grunt-cli.package": "",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "yarn",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "ts.external.directory.path": "/Users/milk717/Library/Application Support/JetBrains/Toolbox/apps/WebStorm/ch-0/223.8214.51/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="npm.start:dev">
     <configuration name="index.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="src/index.js" working-dir="$PROJECT_DIR$">
       <EXTENSION ID="com.jetbrains.nodejs.run.NodeStartBrowserRunConfigurationExtension">
@@ -94,7 +134,8 @@
       <workItem from="1673609309263" duration="5327000" />
       <workItem from="1673615769160" duration="2659000" />
       <workItem from="1673618441694" duration="852000" />
-      <workItem from="1673619310991" duration="1554000" />
+      <workItem from="1673619310991" duration="1643000" />
+      <workItem from="1673659453334" duration="7799000" />
     </task>
     <task id="LOCAL-00001" summary="21장: koa 기본 사용법">
       <created>1673615123370</created>
@@ -152,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673618208265</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="21장: http 메서드 동작 결과 리스트에 저장">
+      <created>1673620941358</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1673620941358</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,6 +223,8 @@
     <MESSAGE value="21장: koa-router 기본 사용법" />
     <MESSAGE value="21장: koa-router 분리" />
     <MESSAGE value="21장: koa-router, http 메소드 사용하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="21장: koa-router, http 메소드 사용하기" />
+    <MESSAGE value="21장: 로컬에 저장하기" />
+    <MESSAGE value="21장: http 메서드 동작 결과 리스트에 저장" />
+    <option name="LAST_COMMIT_MESSAGE" value="21장: http 메서드 동작 결과 리스트에 저장" />
   </component>
 </project>
